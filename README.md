@@ -34,7 +34,7 @@ It acts as an **AI Companion**: listens, transcribes, and helps you formulate re
 ---
 
 ## 🚀 Installation
-1. Download the latest release from [Releases](./releases).  
+1. Download the latest release from [Releases](https://github.com/uaPluto/AI-Companion/releases)  
 2. Run the `.exe` installer.  
 3. On first launch, enter and save your **API Key**.  
 4. Check your audio input/output devices.  
@@ -151,7 +151,7 @@ It acts as an **AI Companion**: listens, transcribes, and helps you formulate re
 ---
 
 ## 🚀 Встановлення
-1. Завантажте останню версію з [Releases](./releases).  
+1. Завантажте останню версію з [Releases](https://github.com/uaPluto/AI-Companion/releases)  
 2. Запустіть інсталятор `.exe`.  
 3. Під час першого запуску введіть та збережіть свій **API-ключ**.  
 4. Перевірте пристрої вводу/виводу.  
@@ -270,7 +270,7 @@ It acts as an **AI Companion**: listens, transcribes, and helps you formulate re
 ---
 
 ## 🚀 Установка
-1. Скачайте последний релиз из [Releases](./releases).  
+1. Скачайте последний релиз из [Releases](https://github.com/uaPluto/AI-Companion/releases).  
 2. Запустите установщик `.exe`.  
 3. При первом запуске введите свой **API-ключ** и сохраните.  
 4. Проверьте устройства ввода/вывода.  
