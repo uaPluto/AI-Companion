@@ -44,6 +44,7 @@ It acts as an **AI Companion**: listens, transcribes, and helps you formulate re
 ## 🖥️ Main Window
 
 ### 🔑 API Key
+- Create secret [OpenAI API key](https://platform.openai.com/api-keys) 
 - Enter and save OpenAI API Key  
 - Stored at `%APPDATA%\SystemAudioToChatGPT\apikey.dat` in encrypted form  
 
@@ -121,7 +122,7 @@ It acts as an **AI Companion**: listens, transcribes, and helps you formulate re
 ---
 
 ## 📬 Support
-- Issues: [GitHub Issues](./issues)  
+- Issues: [Bandbi Support](https://bandbi.atlassian.net/servicedesk/customer/portal/1)  
 - Email: info@bandbi.site  
 
 ---
@@ -160,6 +161,7 @@ It acts as an **AI Companion**: listens, transcribes, and helps you formulate re
 ## 🖥️ Головне вікно
 
 ### 🔑 API Key
+- Створіть [API-ключ OpenAI](https://platform.openai.com/api-keys) 
 - Введення та збереження API-ключа OpenAI  
 - Ключ зберігається у `%APPDATA%\SystemAudioToChatGPT\apikey.dat` у зашифрованому вигляді  
 
@@ -238,8 +240,8 @@ It acts as an **AI Companion**: listens, transcribes, and helps you formulate re
 ---
 
 ## 📬 Підтримка
-- Issues: [GitHub Issues](./issues)  
-- Email: support@bandbi.site  
+- Issues: [Bandbi Support](https://bandbi.atlassian.net/servicedesk/customer/portal/1)  
+- Email: info@bandbi.site  
 
 
 --- 
@@ -278,6 +280,7 @@ It acts as an **AI Companion**: listens, transcribes, and helps you formulate re
 ## 🖥️ Главное окно
 
 ### 🔑 API Key
+- Создайте [API-ключ OpenAI](https://platform.openai.com/api-keys) 
 - Ввод и сохранение API-ключа OpenAI  
 - Ключ хранится в `%APPDATA%\SystemAudioToChatGPT\apikey.dat` в зашифрованном виде
 
@@ -356,8 +359,8 @@ It acts as an **AI Companion**: listens, transcribes, and helps you formulate re
 ---
 
 ## 📬 Поддержка
-- Issues: [GitHub Issues](./issues)  
-- Email: support@bandbi.site  
+- Issues: [Bandbi Support](https://bandbi.atlassian.net/servicedesk/customer/portal/1)   
+- Email: info@bandbi.site  
 
 
 ---
